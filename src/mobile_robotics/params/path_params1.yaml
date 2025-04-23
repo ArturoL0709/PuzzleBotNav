@@ -1,0 +1,8 @@
+path_generator:
+  ros__parameters:
+    waypoints:
+      - [2.0, 0.0]
+      - [2.0, 2.0]
+      - [0.0, 2.0]
+      - [0.0, 0.0]
+    pause_duration: 2.0

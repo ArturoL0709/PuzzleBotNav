@@ -1,0 +1,7 @@
+controller_node:
+  ros__parameters:
+    Kv: 0.5
+    Kw: 1.0
+    max_lin_speed: 0.3
+    max_ang_speed: 1.0
+    distance_tolerance: 0.05

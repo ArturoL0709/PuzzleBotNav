@@ -1,0 +1,6 @@
+odometry_node:
+  ros__parameters:
+    wheel_radius: 0.05
+    wheel_base: 0.18
+    odom_frame: "odom"
+    base_frame: "base_link"
