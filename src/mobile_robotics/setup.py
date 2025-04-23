@@ -27,8 +27,8 @@ setup(
     entry_points={
         'console_scripts': [
             'odometry_node   = mobile_robotics.odometry_node:main',
-            'controller_node = mobile_robotics.controller_node:main',
-            'path_generator  = mobile_robotics.path_generator:main',
+          #  'controller_node = mobile_robotics.controller_node:main',
+           # 'path_generator  = mobile_robotics.path_generator:main',
         ],
     },
 )
